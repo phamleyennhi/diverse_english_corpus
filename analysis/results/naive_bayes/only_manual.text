@@ -1,0 +1,9 @@
+# Train on Western English, test on ALL
+	# Classifier accuracy: 87.08%
+	# Classifier precision: 84.56%
+	# Classifier recall: 95.04%
+
+# Train on ALL, test on ALL
+	# Classifier accuracy: 93.78%
+	# Classifier precision: 98.19%
+	# Classifier recall: 94.22%

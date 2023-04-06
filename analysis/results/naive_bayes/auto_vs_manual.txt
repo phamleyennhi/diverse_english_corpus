@@ -1,0 +1,24 @@
+# RESULTS when balanced
+
+	# Trained on SpaCY-annotated
+		# Classifier accuracy: 86.67%
+		# Classifier precision: 89.29%
+		# Classifier recall: 83.33%
+
+	# Trained on our corpus
+		# Classifier accuracy: 92.50%
+		# Classifier precision: 96.36%
+		# Classifier recall: 88.33%
+
+
+# RESULTS when non balanced
+
+	# Trained on SpaCY-annotated
+		# Classifier accuracy: 78.29%
+		# Classifier precision: 96.80%
+		# Classifier recall: 75.44%
+
+	# Trained on our corpus
+		# Classifier accuracy: 88.00%
+		# Classifier precision: 95.09%
+		# Classifier recall: 89.68%
